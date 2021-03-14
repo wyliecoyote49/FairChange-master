@@ -1,3 +1,5 @@
+## This README and the files come from the IBM FairChange repository. This is not my original work. This is for personal use, in an attempt to learn more about data science.
+
 # Fair Change Solution Starter
 This solution starter was created by technologists from IBM. The goal of this starter kit is to provide a solution for the theme of Police & Judicial Reform and Accountability. 
 
