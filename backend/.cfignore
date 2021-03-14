@@ -1,0 +1,22 @@
+node_modules
+.settings
+.project
+.sublime-project
+.tern-project
+beta
+vcap-local.example.json
+__*
+.git
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/bower_components/
+/node_modules/
+/credentials/
+.DS_Store
+/vcap.local.js
+/package-lock.json
+.vscode
+*.log
+/.idea/
+/src/
